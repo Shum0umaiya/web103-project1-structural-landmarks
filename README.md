@@ -1,10 +1,10 @@
 # WEB103 Project 1 - Structural Landmarks
 
-Submitted by: **Syed**
+Submitted by: **Sumaiya Shumu**
 
 About this web app: **Structural Landmarks is an interactive listicle that showcases five remarkable engineering structures from around the world. Users can explore each landmark and learn about its structural type, location, materials, year of completion, dimensions, and engineering significance.**
 
-Time spent: **X** hours
+Time spent: **8** hours
 
 ## Required Features
 
@@ -61,7 +61,7 @@ This project helped me better understand the relationship between HTML, CSS, Jav
 
 ## License
 
-Copyright 2026 Syed
+Copyright 2026 Sumaiya Shumu
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
